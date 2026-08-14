@@ -105,3 +105,4 @@ HW-Model/
 ```
 
 <!-- MCP write test — testing things out -->
+<!-- MCP write test 2 — re-verified after PAT regeneration, minimal scope (Contents R/W + Metadata) -->
